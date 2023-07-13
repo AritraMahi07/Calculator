@@ -8,7 +8,10 @@ This is a simple GUI Calculator made with Python 3.8(Tkinter Module)
 ![Screenshot (164)](https://github.com/AritraMahi07/Calculator/assets/138608319/19fc8283-d54b-4f99-9a42-b8da41adf754)
 
 # Widgets Used
-In this GUI widgets I have used are: Label, Button
+In this GUI widgets I have used are:
+1. Frame
+2. Button
+3. Label
 
 # Purpose
 Through this calculator, we can perform simple Arithmetic Operations like:
