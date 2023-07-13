@@ -5,7 +5,8 @@ This is a simple GUI Calculator that takes input from the user and it performs s
 This is a simple GUI Calculator made with Python 3.8(Tkinter Module)
 
 # ScreenShot
-![Screenshot (164)](https://github.com/AritraMahi07/Calculator/assets/138608319/19fc8283-d54b-4f99-9a42-b8da41adf754)
+![Screenshot (165)](https://github.com/AritraMahi07/Calculator/assets/138608319/972b22bb-e3d7-4713-849b-1501c18e17f7)
+![Screenshot (166)](https://github.com/AritraMahi07/Calculator/assets/138608319/14f0034c-a1a1-40f7-8f4a-d4239ab178fc)
 
 # Widgets Used
 In this GUI widgets I have used are:
@@ -15,7 +16,6 @@ In this GUI widgets I have used are:
 
 # Purpose
 Through this calculator, we can perform simple Arithmetic Operations like:
-
 1. Addition(+)
 2. Subtraction(-)
 3.  Multiplication(*)
