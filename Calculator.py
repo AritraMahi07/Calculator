@@ -30,7 +30,7 @@ def click(event):
 root = Tk()
 root.geometry("570x600+100+200")
 root.configure(bg="#17131b")
-root.title("Calculator By Aritra")
+root.title("Calculator In Python")
 
 
 scvalue = StringVar()
